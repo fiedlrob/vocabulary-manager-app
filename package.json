@@ -1,7 +1,7 @@
 {
   "name": "vocabulary-manager",
   "version": "0.0.1",
-  "description": "The vocabaulary manager for palabrita.net",
+  "description": "The vocabulary manager for palabrita.net",
   "productName": "Vocabualry Manager",
   "author": "Robert Fiedler <robert.fiedler@raftec-software.com>",
   "private": true,

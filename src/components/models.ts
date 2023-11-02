@@ -1,8 +1,5 @@
-export interface Todo {
-  id: number;
-  content: string;
-}
-
-export interface Meta {
-  totalCount: number;
+export interface CollectionEntry {
+  collectionId: string;
+  keyword: string;
+  translations: string[];
 }
